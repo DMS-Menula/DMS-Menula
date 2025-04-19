@@ -49,8 +49,11 @@
 ### 🧩 GitHub Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DMS-Menula/DMS-Menula/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://www.youtube.com/watch?v=oMtBioG-j6Q">
+    <img src="https://raw.githubusercontent.com/DMS-Menula/DMS-Menula/output/github-contribution-grid-snake.svg" alt="Snake animation" width="800px" class="snake-animation"/>
+  </a>
 </p>
+
 
 ---
 
