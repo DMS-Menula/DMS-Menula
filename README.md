@@ -21,7 +21,7 @@
 - 💻 I love building responsive websites & apps with clean UI/UX  
 - 🌍 From: **Ratnapura, Sri Lanka 🇱🇰**  
 - ✨ I'm only **12 years old**, but my dreams are BIG!  
-- 📫 Contact me: **menuladesilva.business@gmail.com**
+- 📫 Contact me: **devmenula@gmail.com**
 
 ---
 
@@ -62,13 +62,14 @@
 Here are a few cool things I’ve built! 🌟  
 Click on a project title to explore!
 
-- 🔸 [Digital Thorana DP Education](https://dp-vesak-thorana-2024-menula-de-silva.glitch.me/)
-- 🔹 [Digital Thorana](https://bodhiraja-thorana-2.glitch.me/)
+- 🍔 [MOS BURGERS](https://mosburgers.vercel.app/)
+- 🌏 [3D Solar System](https://dms-soylar-system.surge.sh/)
+- ✏️ [Note It](https://drive.google.com/file/d/1OR0zq1iKQCMJaqitABygLY7D82ZbM_53/view)
+- ✈ [Sri Lanka](https://srilanka.surge.sh/)
 - 💎 [Gem City of Ratnapura](https://studio.code.org/projects/applab/k0CXhUKX52b12a1BLJpluNthx5hIwApE_k9iqzmwTJc)
 - 🌍 [Wonder of Ratnapura](https://ratnapura.glitch.me/)
 - ✅ [To Do List](https://todl.glitch.me/)
 - 🛒 [Winn-Dixie Shop](https://winn-dixie-shop.surge.sh/)
-- 👤 [Portfolio](https://menula-new.glitch.me/)
 
 ---
 
