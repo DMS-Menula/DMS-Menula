@@ -70,6 +70,8 @@ Click on a project title to explore!
 - 🌍 [Wonder of Ratnapura](https://ratnapura.glitch.me/)
 - ✅ [To Do List](https://todl.glitch.me/)
 - 🛒 [Winn-Dixie Shop](https://winn-dixie-shop.surge.sh/)
+- ⛏️ [MinefunCraft](https://minefuncraft.vercel.app/)
+
 
 ---
 
