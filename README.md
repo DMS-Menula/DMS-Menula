@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Menula+De+Silva!;A+12+y%2Fo+Tech+Enthusiast!;Web+%26+App+Developer!;Loves+Coding+%26+Robotics!" alt="Typing SVG" />
 </h1>
 
@@ -106,5 +106,6 @@ Click on a project title to explore!
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3cnFqaG1uMmJmbGFicG5iMmc0Z3BwbTBvbjJncXFtOXRyMWVjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7bdpLxQhsSQdyog/giphy.gif" height="100">
 </p>
+
 
 
