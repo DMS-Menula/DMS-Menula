@@ -46,6 +46,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=tokyonight&no&hide_border=true"&no-bg=false&margin-w=4)
+
+---
+
 ### 🧩 GitHub Contribution Snake 🐍
 
 <p align="center">
