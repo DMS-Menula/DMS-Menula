@@ -48,7 +48,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=tokyonight&no&hide_border=true"&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=dracula&no&hide_border=true"&no-bg=false&margin-w=4)
 
 ---
 
