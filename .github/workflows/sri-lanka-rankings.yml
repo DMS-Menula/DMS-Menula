@@ -1,0 +1,23 @@
+name: Sri Lankan Dev Rankings
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily update
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v4
+      - run: |
+          pip install requests
+          python <<EOF
+          # Insert the Python code above here
+          # Then generate a README.md update
+          with open('README.md', 'r+') as f:
+              content = f.read()
+              new_section = "## 🇱🇰 Top Sri Lankan GitHub Devs\n" + "\n".join([f"- [{u['login']}]({u['html_url']})" for u in top_devs])
+              updated = content.replace("<!-- RANKINGS -->", new_section)
+              f.seek(0)
+              f.write(updated)
+          EOF
+      - uses: stefanzweifel/git-auto-commit-action@v4
