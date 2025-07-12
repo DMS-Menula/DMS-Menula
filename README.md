@@ -21,7 +21,6 @@
 - 💻 I love building responsive websites & apps with clean UI/UX  
 - 🌍 From: **Ratnapura, Sri Lanka 🇱🇰**  
 - ✨ I'm only **12 years old**, but my dreams are BIG!  
-- 📫 Contact me: **rusirunavanjaya2004@gmail.com**
 
 ---
 
