@@ -45,6 +45,18 @@
 
 ---
 
+
+### 🏆 GitHub Rankings
+
+[![Sri Lankan GitHub Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcommitters.top%2Fsri_lanka%2Fbadge%2FDMS-Menula&label=Sri%20Lanka%20Rank&query=%24.rank&color=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6Ii8+PHBhdGggZmlsbD0iI0ZFMDAwMCIgZD0iTTI1NiAxMjguN2wtMTIuOSA0MC4xSDk3LjlsMzMuNSAyNC4zLTEyLjkgNDAuMUwxNTUgMjA5bC0zMy41IDI0LjMgMTIuOSA0MC4xIDEyLjktNDAuMUwyNTYgMjg4LjVsNDAuMS0xMi45LTEyLjktNDAuMUwzNTcgMjA5bC0xMi45LTQwLjEgMzMuNS0yNC4zLTEyLjktNDAuMUw0MTQgMTY4LjhIMjY4Ljl6Ii8+PC9zdmc+)](https://committers.top/sri_lanka/user/DMS-Menula)
+
+<!-- RANKINGS_START -->
+<!-- Rankings will be updated automatically -->
+<!-- RANKINGS_END -->
+
+---
+
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=dracula&no&hide_border=true"&no-bg=false&margin-w=4)
