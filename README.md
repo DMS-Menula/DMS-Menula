@@ -52,7 +52,7 @@
 
 <!-- RANKINGS_START -->
 <!-- Rankings will be updated automatically -->
-<!-- RANKINGS_END -->
+<!-- RANKINGS_END --> 
 
 ---
 
