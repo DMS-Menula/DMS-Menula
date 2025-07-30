@@ -24,6 +24,13 @@
 
 ---
 
+###  💭 My Weekly Update
+
+> [!TIP]
+> Chnaged My Linkedin Handle To @dmsmenula ! [Click Here](https://www.linkedin.com/in/dmsmenula/).
+
+---
+
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
