@@ -27,7 +27,7 @@
 ###  💭 My Weekly Update
 
 > [!TIP]
-> Chnaged My Linkedin Handle To @dmsmenula ! [Click Here](https://www.linkedin.com/in/dmsmenula/).
+> I've Got 750 Followers On My Linkedin Profile [Click Here](https://www.linkedin.com/in/dmsmenula/).
 
 ---
 
