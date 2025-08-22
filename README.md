@@ -27,7 +27,7 @@
 ###  💭 My Weekly Update
 
 > [!TIP]
-> I've Got 750 Followers On My Linkedin Profile [Click Here](https://www.linkedin.com/in/dmsmenula/).
+> I've Got 800 Followers On My Linkedin Profile [Click Here](https://www.linkedin.com/in/dmsmenula/).
 
 ---
 
