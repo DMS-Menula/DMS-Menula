@@ -87,25 +87,16 @@ Click on a project title to explore!
 
 - 🍔 [MOS BURGERS](https://mosburgers.vercel.app/)
 - 🌏 [3D Solar System](https://dms-soylar-system.surge.sh/)
+- ☁  [Weather App](https://dms-menula.github.io/liveWeatherApp/)
+- 🤖 [Instant AI](https://dms-menula.github.io/Instant-AI/)
 - ✏️ [Note It](https://drive.google.com/file/d/1OR0zq1iKQCMJaqitABygLY7D82ZbM_53/view)
 - ✈ [Sri Lanka](https://srilanka.surge.sh/)
 - 💎 [Gem City of Ratnapura](https://studio.code.org/projects/applab/k0CXhUKX52b12a1BLJpluNthx5hIwApE_k9iqzmwTJc)
-- 🌍 [Wonder of Ratnapura](https://ratnapura.glitch.me/)
-- ✅ [To Do List](https://todl.glitch.me/)
+- 🌍 [Wonder of Ratnapura](https://dms-menula.github.io/Wonder_Of_Sabaragamuwa/)
+- ✅ [To Do List](https://dms-menula.github.io/Todol/)
 - 🛒 [Winn-Dixie Shop](https://winn-dixie-shop.surge.sh/)
 - ⛏️ [MinefunCraft](https://minefuncraft.vercel.app/)
-
-
----
-
-### 📺 Latest YouTube Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=oMtBioG-j6Q">
-    <img src="https://img.youtube.com/vi/oMtBioG-j6Q/0.jpg" alt="Watch on YouTube" width="400px"/>
-  </a>
-</p>
-
+- 💧 [Maduranga Waterproofing](https://maduranga-wateproofing.vercel.app/)
 
 ---
 
