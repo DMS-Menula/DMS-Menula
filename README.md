@@ -80,31 +80,33 @@
 
 ---
 
-### 🌐 My Projects
+## 🌐 Featured Projects
 
-Here are a few cool things I’ve built! 🌟  
-Click on a project title to explore!
+Explore some of my favorite creations:
 
-- 🍔 [MOS BURGERS](https://mosburgers.vercel.app/)
-- 🌏 [3D Solar System](https://dms-soylar-system.surge.sh/)
-- ☁  [Weather App](https://dms-menula.github.io/liveWeatherApp/)
-- 🤖 [Instant AI](https://dms-menula.github.io/Instant-AI/)
-- ✏️ [Note It](https://drive.google.com/file/d/1OR0zq1iKQCMJaqitABygLY7D82ZbM_53/view)
-- ✈ [Sri Lanka](https://srilanka.surge.sh/)
-- 💎 [Gem City of Ratnapura](https://studio.code.org/projects/applab/k0CXhUKX52b12a1BLJpluNthx5hIwApE_k9iqzmwTJc)
-- 🌍 [Wonder of Ratnapura](https://dms-menula.github.io/Wonder_Of_Sabaragamuwa/)
-- ✅ [To Do List](https://dms-menula.github.io/Todol/)
-- 🛒 [Winn-Dixie Shop](https://winn-dixie-shop.surge.sh/)
-- ⛏️ [MinefunCraft](https://minefuncraft.vercel.app/)
-- 💧 [Maduranga Waterproofing](https://maduranga-wateproofing.vercel.app/)
+| Project | Description |
+|--------|-------------|
+| 🍔 [MOS BURGERS](https://mosburgers.vercel.app/) | A stylish food ordering site |
+| 🌏 [3D Solar System](https://dms-soylar-system.surge.sh/) | Interactive planetary model |
+| ☁ [Weather App](https://dms-menula.github.io/liveWeatherApp/) | Live weather updates |
+| 🤖 [Instant AI](https://dms-menula.github.io/Instant-AI/) | AI-powered assistant |
+| ✏️ [Note It](https://drive.google.com/file/d/1OR0zq1iKQCMJaqitABygLY7D82ZbM_53/view) | Simple note-taking app |
+| ✈ [Sri Lanka](https://srilanka.surge.sh/) | Travel showcase |
+| 💎 [Gem City of Ratnapura](https://studio.code.org/projects/applab/k0CXhUKX52b12a1BLJpluNthx5hIwApE_k9iqzmwTJc) | Educational app |
+| 🌍 [Wonder of Ratnapura](https://dms-menula.github.io/Wonder_Of_Sabaragamuwa/) | Local heritage site |
+| ✅ [To Do List](https://dms-menula.github.io/Todol/) | Task manager |
+| 🛒 [Winn-Dixie Shop](https://winn-dixie-shop.surge.sh/) | E-commerce demo |
+| ⛏️ [MinefunCraft](https://minefuncraft.vercel.app/) | Minecraft-themed site |
+| 💧 [Maduranga Waterproofing](https://maduranga-wateproofing.vercel.app/) | Business website |
 
 ---
 
-### 📈 Visitor Count
+## 📈 Visitor Tracker
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DMS-Menula&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
+
 
 ---
 
