@@ -32,7 +32,7 @@
 > [!TIP]
 > I've Got 1000 Followers On My Linkedin Profile [Click Here](https://www.linkedin.com/in/dmsmenula/).
 
----
+--- 
 
 ### 🚀 Tech Stack & Tools
 
