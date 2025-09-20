@@ -29,7 +29,7 @@
 ###  💭 My Weekly Update
 
 > [!TIP]
-> I've Got 1000 Followers On My Linkedin Profile [Click Here](https://www.linkedin.com/in/dmsmenula/).
+> Now You Can Follow Me On [Dev.to](https://dev.to/dmsmenula).
 
 --- 
 
