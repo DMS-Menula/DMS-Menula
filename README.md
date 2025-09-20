@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://dms-menula.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
