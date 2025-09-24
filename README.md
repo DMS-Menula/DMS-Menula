@@ -9,10 +9,23 @@
 </p> 
 
 <p align="center"> 
-  <a href="https://dms-menula.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="https://github.com/DMS-Menula"><img alt="GitHub" src="https://img.shields.io/github/followers/DMS-Menula?label=Follow&style=for-the-badge&logo=github"></a>
+  <a href="https://dms-menula.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dmsmenula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/@CodeHero-DMS"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@blockcodingpro"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <br/><br/><br/>
+  <a href="https://dev.to/dmsmenula">
+    <img src="https://skillicons.dev/icons?i=devto"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dmsmenula/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:rusirunavanjaya2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://github.com/DMS-Menula/">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
 </p>
 
 ---
