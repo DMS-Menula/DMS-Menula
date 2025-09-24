@@ -6,7 +6,7 @@
   
 <p align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p> 
+</p>  
 
 <p align="center"> 
   <a href="https://github.com/DMS-Menula"><img alt="GitHub" src="https://img.shields.io/github/followers/DMS-Menula?label=Follow&style=for-the-badge&logo=github"></a>
