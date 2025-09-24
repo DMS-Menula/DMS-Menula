@@ -36,7 +36,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,react,angular,figma,wordpress,python,java,mysql,dart,flutter,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,react,angular,figma,wordpress,python,java,mysql,dart,flutter,vscode,github,git,electron,express,firebase,jquery,nextjs,nodejs,postman,ts,vercel" />
 </p>
 
 ---
@@ -55,13 +55,10 @@
 ---
 
 
-### 🏆 GitHub Rankings
+### 📈 My Activity Graph
 
-[![Sri Lankan GitHub Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcommitters.top%2Fsri_lanka%2Fbadge%2FDMS-Menula&label=Sri%20Lanka%20Rank&query=%24.rank&color=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6Ii8+PHBhdGggZmlsbD0iI0ZFMDAwMCIgZD0iTTI1NiAxMjguN2wtMTIuOSA0MC4xSDk3LjlsMzMuNSAyNC4zLTEyLjkgNDAuMUwxNTUgMjA5bC0zMy41IDI0LjMgMTIuOSA0MC4xIDEyLjktNDAuMUwyNTYgMjg4LjVsNDAuMS0xMi45LTEyLjktNDAuMUwzNTcgMjA5bC0xMi45LTQwLjEgMzMuNS0yNC4zLTEyLjktNDAuMUw0MTQgMTY4LjhIMjY4Ljl6Ii8+PC9zdmc+)](https://committers.top/sri_lanka/user/DMS-Menula)
+[![Menula's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DMS-Menula&bg_color=0d1117&color=6499e9&line=9e4c98&point=6499e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- RANKINGS_START -->
-<!-- Rankings will be updated automatically -->
-<!-- RANKINGS_END --> 
 
 ---
 
