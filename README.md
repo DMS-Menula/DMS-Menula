@@ -68,7 +68,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=aura&no&hide_border=true"&no-bg=false&margin-w=4)
+![My GIthub Tropies](https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=aura&no&hide_border=true"&no-bg=false&margin-w=4)
 
 ---
 
