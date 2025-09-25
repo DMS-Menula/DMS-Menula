@@ -2,7 +2,7 @@
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Menula+De+Silva!;A+12+y%2Fo+Tech+Enthusiast!;Web+%26+App+Developer!;Loves+Coding+%26+Robotics!" alt="Typing SVG" />
-</h1>
+</h1> 
 
 <p align="center">    
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
