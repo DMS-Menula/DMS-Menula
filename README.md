@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=header"/>
-  
+
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Menula+De+Silva!;A+12+y%2Fo+Tech+Enthusiast!;Web+%26+App+Developer!;Loves+Coding+%26+Robotics!" alt="Typing SVG" />
-</h1> 
-     
+</h1>
+
 <p align="center">  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>   
+</p>
 
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/DMS-Menula"><img alt="GitHub" src="https://img.shields.io/github/followers/DMS-Menula?label=Follow&style=for-the-badge&logo=github"></a>
   <a href="https://dms-menula.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dmsmenula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
