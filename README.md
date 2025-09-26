@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/> 
 </p>  
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/DMS-Menula"><img alt="GitHub" src="https://img.shields.io/github/followers/DMS-Menula?label=Follow&style=for-the-badge&logo=github"></a>
   <a href="https://dms-menula.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dmsmenula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
