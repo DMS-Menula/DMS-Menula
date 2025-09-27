@@ -42,7 +42,7 @@
 ###  💭 My Weekly Update
 
 > [!TIP]
-> Now You Can Follow Me On [Dev.to](https://dev.to/dmsmenula).
+> See My Very First NPM Packages [Here](https://www.npmjs.com/~dmsmenula).
  
 --- 
 
