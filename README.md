@@ -15,7 +15,7 @@
   <a href="https://www.youtube.com/@blockcodingpro"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <br/><br/><br/>
   <a href="https://dev.to/dmsmenula">
-    <img src="https://skillicons.dev/icons?i=devto"/>
+    <img src="https://skillicons.dev/icons?i=devto"/> 
   </a>
   <a href="https://www.linkedin.com/in/dmsmenula/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
