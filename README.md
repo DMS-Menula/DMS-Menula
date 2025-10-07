@@ -16,7 +16,7 @@
   <a href="https://dev.to/dmsmenula"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
 
---- 
+---  
 
 ### 👋 Hello World! I'm Menula!
 
