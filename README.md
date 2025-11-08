@@ -79,7 +79,7 @@ I'm not waiting for the future I'm already building it.
 | 🌍 [3D Solar System](https://dms-soylar-system.surge.sh/) | Interactive 3D planetary project |
 | ☁ [Weather App](https://dms-menula.github.io/liveWeatherApp/) | Live weather dashboard |
 | 🤖 [Instant AI](https://dms-menula.github.io/Instant-AI/) | AI-powered assistant |
-| ✏️ Note It | Simple note-taking app |
+| ✏️ [Note It](https://drive.google.com/file/d/1OR0zq1iKQCMJaqitABygLY7D82ZbM_53/view) | Simple note-taking app |
 | ✈ [Sri Lanka](https://srilanka.surge.sh/) | Tourism web showcase |
 | 💎 [Gem City of Ratnapura](https://studio.code.org/projects/applab/k0CXhUKX52b12a1BLJpluNthx5hIwApE_k9iqzmwTJc) | Educational mobile app |
 | 🌍 [Wonder of Ratnapura](https://dms-menula.github.io/Wonder_Of_Sabaragamuwa/) | Heritage site |
