@@ -1,9 +1,7 @@
-<!-- ✅ SMOOTH ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=21,39,45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<!-- ✅ MODERN INTRO ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&color=6C63FF&width=650&lines=Hey%2C+I'm+Menula+De+Silva!;12+Year+Old+Full-Stack+Developer;Building+Web+%2B+Mobile+Experiences;Future+Tech+Innovator" />
 </h1>
@@ -34,6 +32,10 @@
 I love creating smooth, fast, modern digital products with  
 <b>clean UI, meaningful animations, and high performance.</b>  
 I'm not waiting for the future I'm already building it.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DMS-Menula&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
 </div>
 
