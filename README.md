@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/dmsmenula/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@blockcodingpro"><img src="https://img.shields.io/badge/YouTube-EA3323?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://dev.to/dmsmenula"><img src="https://img.shields.io/badge/Dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
