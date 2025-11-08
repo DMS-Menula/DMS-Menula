@@ -23,7 +23,8 @@
 
 ---
 
-# 🚀 **About Me**
+## 🚀 **About Me**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Age-12_Years_Old-9333ea?style=for-the-badge" />
 
@@ -35,13 +36,14 @@
 
 ---
 
-# ⚡ **Weekly Update**
+## ⚡ **Weekly Update**
+
 > ✅ Check out my newly updated portfolio:  
 > **https://dms-menula.github.io**
 
 ---
 
-# 💻 **Tech Stack** (Neon Version)
+## 💻 **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,angular,flutter,dart,php,python,java,mysql,wordpress,figma,git,github,firebase,nodejs,nextjs,express,vercel,blender" />
@@ -49,10 +51,10 @@
 
 ---
 
-# 📊 **GitHub Stats** (Glowing Cards)
+## 📊 **GitHub Stats** 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMS-Menula&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DMS-Menula&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS-Menula&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="170"/>
 </p>
 
@@ -62,28 +64,28 @@
 
 ---
 
-# 🧩 **GitHub Activity Graph**
+## 🧩 **GitHub Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMS-Menula&bg_color=0d1117&color=6366f1&line=a855f7&point=6366f1&area=true&hide_border=true" width="95%">
 </p>
 
 ---
 
-# 🏆 **Trophies**
+## 🏆 **Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=onestar&no-frame=true&row=1&margin-w=20">
 </p>
 
 ---
 
-# 🐍 **Contribution Snake**
+## 🐍 **Contribution Snake**
 <p align="center">
   <img src="https://raw.githubusercontent.com/DMS-Menula/DMS-Menula/output/github-contribution-grid-snake.svg" width="90%">
 </p>
 
 ---
 
-# 🌐 **Featured Projects**
+## 🌐 **Featured Projects**
 | Project | Description |
 |--------|-------------|
 | 🍔 [MOS BURGERS](https://mosburgers.vercel.app/) | A stylish food ordering website |
@@ -102,7 +104,7 @@
 
 ---
 
-# 🧠 **Inspirational Quotes**
+## 🧠 **Inspirational Quotes**
 > “Dream big. Start small. Act now.”  
 > “Coding is the future — and I’m ready to shape it.”
 
