@@ -27,7 +27,7 @@
 <div align="center">
 
 ### 👦 Young Developer • 🌍 Sri Lanka  
-### 💻 Web • Mobile • AI • UI/UX  
+### 💻 Web • Mobile • SOFTWARE • UI/UX  
 
 I love creating smooth, fast, modern digital products with  
 <b>clean UI, meaningful animations, and high performance.</b>  
