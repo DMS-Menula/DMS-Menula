@@ -43,7 +43,7 @@ I'm not waiting for the future I'm already building it.
 
 ## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,angular,flutter,dart,php,python,java,mysql,firebase,git,github,figma,vercel,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,angular,flutter,dart,php,python,java,mysql,firebase,git,github,figma,vercel,nodejs,express,blender" />
 </p>
 
 ---
