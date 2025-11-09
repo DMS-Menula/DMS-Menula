@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=21,39,45&animation=fadeIn&fontColor=ffffff" />
 </p>
- 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&color=6C63FF&width=650&lines=Hey%2C+I'm+Menula+De+Silva!;12+Year+Old+Full-Stack+Developer;Building+Web+%2B+Mobile+Experiences;Future+Tech+Innovator"/>
 </h1> 
- 
+
 <div align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 20px;">
 </div>
