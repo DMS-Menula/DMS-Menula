@@ -91,7 +91,7 @@ I'm not waiting for the future I'm already building it.
 | ⛏️ [MinefunCraft](https://minefuncraft.vercel.app/) | Minecraft-based UI |
 | 💧 [Maduranga Waterproofing](https://maduranga-wateproofing.vercel.app/) | Business website |
 | 💎 [Lustella Gems](https://lustellagems.com) | Ecommerce Website |
-| 💎 [Snappy QR](https://dms-menula.github.io/snappy-qr-generator/) | QR Code Generator |
+| 🔮 [Snappy QR](https://dms-menula.github.io/snappy-qr-generator/) | QR Code Generator |
 
 ---
 
