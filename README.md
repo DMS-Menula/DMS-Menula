@@ -25,10 +25,14 @@
 
 <h2 align="center">✨ About Me</h2>
 <div align="center">
-🔹 **Young Developer** from Sri Lanka  
+🔹 <b>Young Developer</b> from Sri Lanka  
+  <br/>
 🔹 Web • Mobile • Software • UI/UX  
-🔹 I love building **smooth, animated, modern experiences**  
-🔹 Always learning — already creating the future  
+  <br/>
+🔹 I love building <b>smooth, animated, modern experiences</b>  
+  <br/>
+🔹 Always learning already creating the future  
+<br/>
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=DMS-Menula&style=for-the-badge&color=8A2BE2" />
