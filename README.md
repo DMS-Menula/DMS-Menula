@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
+<p align="center"> 
   <a href="https://dms-menula.github.io/"><img src="https://img.shields.io/badge/Portfolio-7F56D9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dmsmenula/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@blockcodingpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
