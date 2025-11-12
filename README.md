@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=1200&center=true&vCenter=true&color=8A2BE2&multiline=true&width=700&lines=Hey%2C+I'm+Menula+De+Silva!;12 +Year+Old+Full-Stack+Developer;Creator+%7C+Builder+%7C+Tech+Innovator" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=1200&center=true&vCenter=true&color=8A2BE2&multiline=true&width=700&lines=Hey%2C+I'm+Menula+De+Silva!;12+Year+Old+Full-Stack+Developer;Creator+%7C+Builder+%7C+Tech+Innovator" />
 </h1> 
   
 <p align="center">
