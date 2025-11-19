@@ -75,7 +75,7 @@
 <h2 align="center">🌟 Projects Showcase</h2>
 
 <p align="center">
-Here are some of my highlighted projects, fully interactive and responsive!
+Here are some of my highlighted projects
 </p>
 
 <table align="center" style="border-collapse: collapse;">
@@ -180,7 +180,7 @@ Here are some of my highlighted projects, fully interactive and responsive!
 
 <h2 align="center">🔥 Daily Motivation</h2>
 <p align="center">
-  <i><b>"The future belongs to the creators — and I choose to create."</b></i>
+  <i><b>"The future belongs to the creators and I choose to create."</b></i>
 </p>
 
 ---
