@@ -20,6 +20,9 @@
   <a href="https://dev.to/dmsmenula"><img src="https://img.shields.io/badge/Dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
   <a href="https://discord.com/users/menuladesiva"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+<div  align="center">
+<a href="https://www.buymeacoffee.com/menuladesilva" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</div>
 
 ---
 
