@@ -21,7 +21,7 @@
   <a href="https://discord.com/users/menuladesiva"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 <div  align="center">
-<a href='https://ko-fi.com/B0B61Q2GSC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+   <a href='https://ko-fi.com/B0B61Q2GSC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 ---
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS-Menula&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMS-Menula&theme=tokyonight-duo&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="185"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMS-Menula&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="185"/>
 </p>
 
 ---
