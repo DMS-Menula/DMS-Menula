@@ -68,13 +68,6 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DMS-Menula&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 <h2 align="center">🌟 Projects Showcase</h2>
 
 <p align="center">
@@ -181,9 +174,9 @@ Here are some of my highlighted projects
 
 ---
 
-<h2 align="center">🔥 Daily Motivation</h2>
+<h2 align="center">🔥 Daily Quote</h2>
 <p align="center">
-  <i><b>"The future belongs to the creators and I choose to create."</b></i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
