@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/dmsmenula/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@blockcodingpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://dev.to/dmsmenula"><img src="https://img.shields.io/badge/Dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://discord.com/users/menuladesiva"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/menula101"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 <div  align="center">
    <a href='https://ko-fi.com/B0B61Q2GSC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
