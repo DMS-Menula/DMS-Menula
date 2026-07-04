@@ -45,7 +45,7 @@
 
 <h2 align="center">🚀 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,angular,flutter,dart,php,python,java,mysql,firebase,nodejs,express,git,github,figma,vercel,blender&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,angular,flutter,dart,php,python,java,mysql,firebase,nodejs,express,git,github,figma,vercel,blender,cpp&theme=light" />
 </p>
 
 ---
