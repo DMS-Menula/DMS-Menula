@@ -60,8 +60,10 @@
 
 <h2 align="center">📊 GitHub Performance</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMS-Menula&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS-Menula&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" height="165"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DMS-Menula&theme=apprentice&animation=draw" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DMS-Menula&theme=apprentice&animation=draw" height="165"/>
+  
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DMS-Menula&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="185"/>
